@@ -9,7 +9,7 @@
     <Snippet></Snippet>
     <drawOrder>1000</drawOrder>
     <Icon>
-      <href>Layer0-min.png</href>
+      <href>https://raw.githubusercontent.com/jfinken/static/master/Layer0-min.png</href>
       <viewBoundScale>1.0</viewBoundScale>
     </Icon>
     <LatLonBox>
