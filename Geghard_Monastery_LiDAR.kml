@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Geghard_Monastery_LiDAR">
+    <name>Geghard_Monastery_LiDAR</name>
+    <GroundOverlay id="ID_0">
+        <name>Geghard_Monastery_LiDAR</name>
+        <Snippet></Snippet>
+        <drawOrder>1000</drawOrder>
+        <Icon>
+            <href>https://raw.githubusercontent.com/jfinken/static/master/GEG_Monastery_of_Geghard.png</href>
+            <viewBoundScale>0.75</viewBoundScale>
+        </Icon>
+        <LatLonBox>
+            <north>40.14082128382746</north>
+            <south>40.13985132001352</south>
+            <east>44.81913869030413</east>
+            <west>44.81761056991299</west>
+            <rotation>-11.01577946604169</rotation>
+        </LatLonBox>
+    </GroundOverlay>
+</Document>
+</kml>
